@@ -1,0 +1,8 @@
+Layer Name,Number of Parameters
+batch_norm1,256
+flatten,0
+batch_norm2,256
+dense1,33024
+batch_norm3,512
+dense2,32896
+dense3,8256

@@ -1,0 +1,7 @@
+Layer Name,Number of Parameters
+dropout_layer,0
+encoder_layer,281152
+normalization_layer,4
+transformer_encoder,1686916
+flatten_layer,0
+linear_layer,8256
