@@ -4,6 +4,10 @@
 
 This is the codes for my Bachelor Thesis.
 
+Corresponding thesis is under Thesis folder.
+
+For Paper format, refers to [here](https://github.com/MonsterXia/Shandong-University-Undergraduate-Thesis-Design-Template).
+
 ### Requirements:
 
 | Python | PyTorch | CUDA |
